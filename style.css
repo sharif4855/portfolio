@@ -1,0 +1,83 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: rgba(214, 207, 207, 0.425) ;
+    font-family: monospace;
+    margin-top: 25px;
+}
+.top{
+    position: absolute;
+    margin:0 auto;
+    height:50vh;
+    width: 100vw;
+    display: grid;
+    justify-content: center;
+    place-items: center;
+    align-content: center;
+    color: black;
+    background-color: rgba(0, 0, 0, 0);
+}
+.simg{
+    border: 1.5px solid ;
+    border-radius: 90px;
+    border-color: rgba(0, 0, 0, 0.678);
+}
+.about{
+    text-align: left;
+}
+.con{
+    margin-left: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+.btn-light{
+    background-color: transparent;
+}
+.btn-light:hover{
+    background-color: rgba(0, 162, 255, 0.301);
+}
+p{
+    font-size: 16px;
+}
+#section02{
+    text-align: center;
+}
+.name{
+    font-weight: 900;
+    margin-top: 15px;
+}
+.name:hover{
+    color: rgb(55, 154, 201);
+}
+.id{
+    color: rgb(90, 99, 99);
+}
+h1{
+    position: relative;
+}
+
+h2{
+    margin-top: 25px;
+}
+#particles-js{
+    position: relative;
+    margin: 0 auto;
+    height: 50vh;
+    width: 100vw;
+    background-color: rgb(159, 224, 224);
+}
+p{
+    font-family: Courier;
+}
+
+.card-header{
+    background-color: rgb(117, 185, 185)
+}
+.card{
+    margin-top: 25px;
+    border-radius: 20px;
+}
+

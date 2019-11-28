@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-social": "^5.1.1",
+    "express": "^4.17.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "morgan": "^1.9.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabid-19/client01.git"
+  },
+  "keywords": [
+    "sharif"
+  ],
+  "author": "Jabid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabid-19/client01/issues"
+  },
+  "homepage": "https://github.com/jabid-19/client01#readme"
+}
